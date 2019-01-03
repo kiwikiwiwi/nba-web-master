@@ -1,0 +1,27 @@
+.data-view {
+    flex: 1;
+    min-height: 570px;
+    position: relative;
+}
+
+.filters {
+    margin-left: 75px;
+}
+
+.count-slider {
+    width: 500px;
+    position: absolute;
+    left: 150px;
+    bottom: 5px;
+}
+
+.controller {
+    position: absolute;
+    bottom: 45px;
+    left: 75px;
+}
+
+.space {
+    height: 35px;
+}
+
